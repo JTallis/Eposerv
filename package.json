@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "engine.io": "^1.8.1",
+    "lodash": "^4.17.2",
+    "mysql": "^2.12.0",
+    "tinycolor2": "^1.4.1",
+    "joi": "^10.2.0",
+    "crypto-js": "^3.1.9-1",
+    "bluebird": "^3.5.0"
+  }
+}
